@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Digital-Coin/static/css/main.e3529120.chunk.css",
+    "main.js": "/Digital-Coin/static/js/main.dba93c23.chunk.js",
+    "main.js.map": "/Digital-Coin/static/js/main.dba93c23.chunk.js.map",
+    "runtime-main.js": "/Digital-Coin/static/js/runtime-main.889dfc0f.js",
+    "runtime-main.js.map": "/Digital-Coin/static/js/runtime-main.889dfc0f.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/Digital-Coin/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.b7c2180e.chunk.js": "/Digital-Coin/static/js/2.b7c2180e.chunk.js",
+    "static/js/2.b7c2180e.chunk.js.map": "/Digital-Coin/static/js/2.b7c2180e.chunk.js.map",
+    "index.html": "/Digital-Coin/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/Digital-Coin/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.e3529120.chunk.css.map": "/Digital-Coin/static/css/main.e3529120.chunk.css.map",
+    "static/js/2.b7c2180e.chunk.js.LICENSE.txt": "/Digital-Coin/static/js/2.b7c2180e.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/Digital-Coin/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.889dfc0f.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.b7c2180e.chunk.js",
+    "static/css/main.e3529120.chunk.css",
+    "static/js/main.dba93c23.chunk.js"
+  ]
+}
